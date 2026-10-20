@@ -1,0 +1,4 @@
+# Tableau temporary recovery files and OS metadata only.
+*.twbr
+.DS_Store
+Thumbs.db
